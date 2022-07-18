@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CodingAssassins   /  ✨ Thomas Shelby ✨
-- 👀 I’m interested in ...   -- AI & Machine Learning --
-- 🌱 I’m currently learning ...   --- Machine Learning ---
+- 👀 I’m interested in ...   -- IT and Python --
+- 🌱 I’m currently learning ...   --- Web Development and Networking ---
 - 💞️ I’m looking to collaborate on ...   --- Nothing for now ---
-- 📫 How to reach me ...    -- raoabdulhadi952@gmail --
+- 📫 How to reach me ...   -- raoabdulhadi952@gmail --
 
 <!---
 CodingAssassins/CodingAssassins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

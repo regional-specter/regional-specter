@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rao Abdul Hadi</h1>
 <h3 align="center">A hobbyist programmer in my Freshmen Year</h3>
 
-img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47v3qwm7tju1z1qd9y64yw0450n0v2f4v2kvnt34j6&rid=giphy.gif&ct=g"
+img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"
 
 <p align="left"> <a href="https://twitter.com/abdulha04452691" target="blank"><img src="https://img.shields.io/twitter/follow/abdulha04452691?logo=twitter&style=for-the-badge" alt="abdulha04452691" /></a> </p>
 

@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/abdulha04452691" target="blank"><img src="https://img.shields.io/twitter/follow/abdulha04452691?logo=twitter&style=for-the-badge" alt="abdulha04452691" /></a> </p>
 
-- 🔭 I’m currently working on **A C# Projects**
+- 🔭 I’m currently working on **A C# Project**
 
 - 🌱 I’m currently learning **API's**
 
-- 👯 I’m looking to collaborate on **Python Projects**
+- 👯 I’m looking to collaborate on **Python**
 
 - 💬 Ask me about **Python | Java**
 
 - 📫 How to reach me **raoabdulhadi952@gmail.com**
 
-- ⚡ Fun fact **I wear glasses !**
+- ⚡ Fun fact **I ❤ JDM Culture!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

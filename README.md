@@ -1,5 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/CodingAssassins/CodingAssassins/main/banner.png)
-
 <h1 align="center">Hi 👋, I'm Rao Abdul Hadi</h1>
 <h3 align="center">A hobbyist developer in my Freshmen Year</h3>
 

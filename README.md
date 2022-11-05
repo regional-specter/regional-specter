@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 
-- 🔭 I’m currently working on **A C# Project**
+- 🔭 I’m currently working on **A python Project**
 
-- 🌱 I’m currently learning **API's**
+- 🌱 I’m currently learning **Machine Learning && AI**
 
 - 👯 I’m looking to collaborate on **Python**
 
-- 💬 Ask me about **Python | Java**
+- 💬 Ask me about **Python | C# | Unity | Blender | Jupyter Notebook**
 
 - 📫 How to reach me **raoabdulhadi952@gmail.com**
 

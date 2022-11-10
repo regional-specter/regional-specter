@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 
-- 🔭 I’m currently working on **A python Project**
+- 🔭 I’m currently working on **AG ZONE**
 
 - 🌱 I’m currently learning **Machine Learning && AI**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **raoabdulhadi952@gmail.com**
 
-- ⚡ Fun fact **I ❤ JDM Culture!**
+- ⚡ Fun fact **-I am not that fun-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

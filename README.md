@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rao Abdul Hadi</h1>
+<h1 align="center">Hi 👋, I'm Rao </h1>
 <h3 align="center">A hobbyist developer in my Freshmen Year</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">

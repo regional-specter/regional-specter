@@ -1,4 +1,3 @@
-![image](https://github.com/Aby-ss/Aby-ss/assets/103417697/315cc010-ef81-4f1c-b325-efb8a737fda7)
 <h3 align="center">A hobbyist developer in my Freshmen Year</h3>
 
 **Hello there! I'm Rao, a 16-year-old back-end and web developer currently pursuing my studies as a freshmen at GCS (Gems Cambridge Sharjah). With a passion for coding and problem-solving, I find joy in creating robust and efficient solutions for various web applications.**

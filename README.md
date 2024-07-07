@@ -6,7 +6,7 @@
 
 **In addition to my web development skills, I carry the title of a veteran game developer. Over the years, I have honed my skills in game development, gaining a deep understanding of game mechanics, level design, and player engagement. With this experience, I bring a unique perspective to my projects, blending creativity with technical expertise.**
 
-**When I'm not developing systems or programming new concepts, I study business and marketing. I am building my own Social-Media Marketing Agency and Software-as-a-Soervice Business that automates the repetitive agency workflows while increasing the work efficiency.**
+**When I'm not developing systems or programming new concepts, I study business and marketing. I am building my own Social-Media Marketing Agency and Software-as-a-Service Business that automates the repetitive agency workflows while increasing the work efficiency.**
 
 ![Aby-ss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aby-ss&show_icons=true&theme=github_dark)
 

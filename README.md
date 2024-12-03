@@ -1,6 +1,6 @@
 <h3 align="center">A hobbyist developer in my Freshmen Year</h3>
 
-**Hello there! I'm Rao, a 16-year-old back-end and web developer currently pursuing my studies as a freshmen at GCS (Gems Cambridge Sharjah). With a passion for coding and problem-solving, I find joy in creating robust and efficient solutions for various web applications.**
+**Hello there! I'm Rao, I have a passion for coding and problem-solving, I find joy in creating robust and efficient solutions for various web applications.**
 
 **I have gained considerable experience in Python, utilizing its versatility and power to develop functional and scalable back-end systems. I enjoy tackling complex challenges and producing reliable code.**
 

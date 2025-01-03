@@ -1,13 +1,14 @@
-<h3 align="center">A hobbyist developer in my Freshmen Year</h3>
+<h1 align="left">A hobbyist developer</h1>
 
-**Hello there! I'm Rao, I have a passion for coding and problem-solving, I find joy in creating robust and efficient solutions for various web applications.**
+**I'm Rao, I have a passion for coding and problem-solving, I find joy in creating robust and efficient solutions for various web applications.**
 
-**I have gained considerable experience in Python, utilizing its versatility and power to develop functional and scalable back-end systems. I enjoy tackling complex challenges and producing reliable code.**
+**I have gained considerable experience in Python while developing functional and scalable back-end systems. I enjoy tackling complex challenges and producing reliable code. In addition to my web development skills, I am a veteran game developer. Over the years, I refined my skills in game development. Nowadays I am busy building micro-SaaS Ideas, outreaching for my marketing agency and learning Machine Learning and Advance Mathematics.**
 
-**In addition to my web development skills, I carry the title of a veteran game developer. Over the years, I have honed my skills in game development, gaining a deep understanding of game mechanics, level design, and player engagement. With this experience, I bring a unique perspective to my projects, blending creativity with technical expertise.**
-
-**When I'm not developing systems or programming new concepts, I study business and marketing. I am building my own Social-Media Marketing Agency and Software-as-a-Service Business that automates the repetitive agency workflows while increasing the work efficiency.**
-
-![Aby-ss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aby-ss&show_icons=true&theme=github_dark)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aby-ss&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Aby-ss's Stats" />
+  <br>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aby-ss&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
 
 

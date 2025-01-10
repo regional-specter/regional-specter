@@ -6,9 +6,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Aby-ss&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Aby-ss's Stats" />
-  <br>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aby-ss&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 

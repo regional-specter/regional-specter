@@ -8,7 +8,7 @@ I’m a developer who enjoys building practical solutions through code, design, 
 
 * 🌍  I'm based in United Arab Emirates
 * ✉️  You can contact me at [raoabdulhadi952@gmail.com](mailto:raoabdulhadi952@gmail.com)
-* 🚀  I'm currently working on [AI Automations](http://n8n.io)
+* 🚀  I'm currently working on [Trading Algorithms and Timeseries Data](http://www.github.com/regional-specter/Trading-Bot-Algo)
 * 🧠  I'm currently learning Machine Learning
 
 <p align="left">

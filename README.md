@@ -1,7 +1,7 @@
 Hi 👋🏼 My name is Rao
 ============================================================================================================================
 
-Web Developer, Designer & ML Engineer
+Developer, Designer & ML Engineer
 -------------------------------------
 
 I’m a developer who enjoys building practical solutions through code, design, and problem-solving. My projects range from robotics systems and hackathon prototypes to full-stack apps and AI experiments. I mainly work with Python, JavaScript, and Go, focusing on clean, functional code and scalable designs. This profile is where I share tools, automations, and experiments that push my skills forward while tackling real challenges.

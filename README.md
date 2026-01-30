@@ -4,11 +4,11 @@ Hi 👋🏼 My name is Rao
 Developer, Designer & ML Engineer
 -------------------------------------
 
-I’m a developer who enjoys building practical solutions through code, design, and problem-solving. My projects range from robotics systems and hackathon prototypes to full-stack apps and AI experiments. I mainly work with Python, JavaScript, and Go, focusing on clean, functional code and scalable designs. This profile is where I share tools, automations, and experiments that push my skills forward while tackling real challenges.
+I’m a developer who enjoys building practical solutions through code, design, and problem-solving. My projects range from robotics systems and hackathon prototypes to full-stack apps and AI experiments. I mainly work with Python & JavaScript, focusing on clean, functional code and scalable designs. This profile is where I share tools, automations, and experiments and building applicable solutions
 
 * 🌍  I'm based in United Arab Emirates
 * ✉️  You can contact me at [raoabdulhadi952@gmail.com](mailto:raoabdulhadi952@gmail.com)
-* 🚀  I'm currently working on [Trading Algorithms and Timeseries Data](http://www.github.com/regional-specter/Trading-Bot-Algo)
+* 🚀  I'm currently working on [Harvey](http://www.github.com/regional-specter/Harvey)
 * 🧠  I'm currently learning Machine Learning
 
 <p align="left">

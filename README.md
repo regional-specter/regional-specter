@@ -7,7 +7,7 @@ I’m a developer who enjoys building practical solutions through code, design, 
 
 * 🌍  I'm based in United Arab Emirates
 * ✉️  You can contact me at [raoabdulhadi952@gmail.com](mailto:raoabdulhadi952@gmail.com)
-* 🚀  I'm currently working on [Harvey](http://www.github.com/regional-specter/Harvey)
+* 🚀  I'm currently working on [LeadGap - Lead Gen 2.0 w/ AI Agents](https://github.com/GetRepliq/LeadGap)
 * 🧠  I'm currently learning Machine Learning
 
 

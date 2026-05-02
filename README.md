@@ -12,3 +12,4 @@ I’m a developer who enjoys building practical solutions through code, design, 
 
 
 
+![GitHub Stats](https://streak-stats.demolab.com?user=regional-specter&theme=default&hide_border=true)
